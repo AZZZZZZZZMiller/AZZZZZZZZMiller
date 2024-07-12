@@ -1,6 +1,6 @@
-<h1> AZZZZZZZZMiller, here.</h1>h1>
-<h2>New to the world of coding</h2>h2>
-<h3>Looking for insite into the world of coding quickly. Any tips?</h3>h3>
+ AZZZZZZZZMiller, here.
+ New to the world of coding
+ Looking for insite into the world of coding quickly. Any tips?
 </p></h2>- 👋 Hi, I’m @AZZZZZZZZMiller
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
